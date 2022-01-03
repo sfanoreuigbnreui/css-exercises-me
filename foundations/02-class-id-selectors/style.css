@@ -1,0 +1,23 @@
+body {
+  font-family: sans-serif;
+}
+
+.coolClass, .coolerClass {
+  background-color: pink;
+  font-size: 2em;
+}
+
+.coolerClass {
+  font-size: 3em;
+}
+
+#secondElement {
+  font-size: 5em;
+  color: blue;
+}
+
+#fourthElement {
+  background-color: lightgreen;
+  font-size: 2.5em;
+  font-weight: bold;
+}
